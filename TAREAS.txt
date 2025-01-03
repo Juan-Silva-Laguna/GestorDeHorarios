@@ -1,0 +1,25 @@
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ V-1.0 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+1. OK¬/ - - - - inabilitar y habilitar ambiente, tener 
+en cuenta a donde se va a dejar la ficha
+que esta en el ambiente, y llevar un
+historico de los mantenimientos realizados.
+
+2. OK¬/ - - - - Ajustes de horarios, como editar, o eliminar 
+cuando este agregando o cuando consulte.
+
+3.OK¬/ - - - - intentar llevar el control trimestral.(notificacion de cumplimiento de trimestre)
+
+4.OK¬/ - - - - Ajustar lo de notificaciones.
+
+5.OK¬/ - - - - Controlar la cantidad de horas del instructor en cada proceso
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ V-2.0 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+1. Exportar horario en rol aprendiz y instructor
+
+2. Configurar funcionalidades dañadas en roles aprendis e instructor
+
+3. OK¬/ - - - - hacer dachboard para plasmar disponibilidad de ambientes en año(multiples ambiente, con una jornada)
+
+4. OK¬/ - - - - hacer dachboard para plasmar disponibilidad de ambientes en 5 años
+
+5. hacer validaciones en todos los formularios
